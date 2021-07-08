@@ -9,3 +9,13 @@
     font-size:25px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+.header-principal{
+    background-color:antiquewhite;
+    padding: 10px;
+    border-radius: 7px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.container{
+    border: 5px;
+    color:#000
+}
